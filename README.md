@@ -35,15 +35,6 @@ La necesidad de construir esta base de datos surge porque el modelo requería cu
 
 ---
 
-## 📁 Estructura del Repositorio
-
-```
-restaurantiando-etl/
-│
-├── Cuaderno_Camila.ipynb   # Clasificación de categorías con Python
-└── README.md
-```
-
 ---
 
 ## 👩‍💻 Autora
